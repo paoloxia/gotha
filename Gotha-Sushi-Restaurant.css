@@ -1,0 +1,603 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/sushi1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 825px;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+  letter-spacing: -3px;
+  background-image: none;
+  margin: 235px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  animation-duration: 1000ms;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 155px;
+  height: 155px;
+  background-image: url("images/logobianco.jpg");
+  background-position: 50% 50%;
+  animation-duration: 3000ms;
+  margin: 51px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 680px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 521px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 780px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 60px;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/sfondopietra.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 677px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 98px;
+  height: 98px;
+  animation-duration: 1000ms;
+  margin: 44px auto 0 521px;
+}
+
+.u-section-2 .u-line-1 {
+  width: 122px;
+  height: 3px;
+  transform-origin: right center 0px;
+  animation-duration: 1000ms;
+  margin: -50px auto 0 376px;
+}
+
+.u-section-2 .u-line-2 {
+  width: 122px;
+  height: 3px;
+  transform-origin: left center 0px;
+  animation-duration: 1000ms;
+  margin: -3px auto 0 642px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.5rem;
+  width: 539px;
+  animation-duration: 1000ms;
+  margin: 82px auto 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 463px;
+  height: 290px;
+  animation-duration: 1000ms;
+  margin: 23px auto 35px 339px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 686px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 47px;
+    margin-left: 421px;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 98px;
+    margin-left: 303px;
+  }
+
+  .u-section-2 .u-line-2 {
+    width: 98px;
+    margin-left: 539px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 414px;
+    margin-top: 94px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 482px;
+    height: 277px;
+    margin-top: 21px;
+    margin-bottom: 44px;
+    margin-left: 229px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 33px;
+    margin-left: 311px;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-left: 191px;
+  }
+
+  .u-section-2 .u-line-2 {
+    margin-left: 431px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 79px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 22px;
+    margin-left: auto;
+    margin-bottom: 39px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 682px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 221px;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-left: 101px;
+  }
+
+  .u-section-2 .u-line-2 {
+    margin-left: 341px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 69px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 305px;
+    margin-bottom: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 565px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 121px;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 60px;
+    transform-origin: left center 0px;
+    margin-left: 42px;
+  }
+
+  .u-section-2 .u-line-2 {
+    width: 60px;
+    transform-origin: right center 0px;
+    margin-left: 238px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-bottom: 33px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-3 {
+  background-image: linear-gradient(#404040, #1a1a1a);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 50px;
+  margin-bottom: 49px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 419px;
+  animation-duration: 1000ms;
+  background-size: auto 105%;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/fotobarca1.jpg");
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 419px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  animation-duration: 1000ms;
+  margin: 0 25px;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 419px;
+  animation-duration: 1000ms;
+  background-size: 120%;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/IMG_9411.jpg");
+  background-position: 44.43% 40.75%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 {
+    min-height: 429px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    background-position: 50% 50%;
+    min-height: 345px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 345px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    background-position: 36.1% 50%;
+    min-height: 345px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 {
+    min-height: 348px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 365px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 402px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 402px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 402px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 {
+    min-height: 1272px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 1023px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 51px;
+    margin-bottom: 51px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 415px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 152px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 354px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 {
+    min-height: 1086px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 849px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    background-position: 40.15% 50%;
+    min-height: 318px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 347px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 53px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 263px;
+  }
+}.u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/sfondopietra.jpg");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 869px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 2.25rem;
+  animation-duration: 1000ms;
+  margin: 40px auto 0;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 976px;
+  margin: 40px auto 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 380px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 182px;
+  height: 140px;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 400;
+  animation-duration: 1000ms;
+  margin: 40px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 1.5rem;
+  animation-duration: 1000ms;
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 380px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-section-4 .u-image-2 {
+  width: 182px;
+  height: 140px;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-text-4 {
+  font-weight: 400;
+  animation-duration: 1000ms;
+  margin: 40px auto 0;
+}
+
+.u-section-4 .u-text-5 {
+  font-size: 1.5rem;
+  animation-duration: 1000ms;
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-line-1 {
+  width: 649px;
+  height: 3px;
+  transform-origin: right center 0px;
+  animation-duration: 1000ms;
+  margin: 24px auto 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-weight: 400;
+  animation-duration: 1000ms;
+  margin: 48px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  background-image: none;
+  animation-duration: 1000ms;
+  margin: 40px auto 60px;
+  padding: 10px 37px 11px 36px;
+}
+
+.u-section-4 .u-icon-1 {
+  color: rgb(255, 255, 255) !important;
+  font-size: 2em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 703px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    position: relative;
+    width: 940px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 386px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 386px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 437px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 802px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 215px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+    margin-top: 30px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1089px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 35px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 340px;
+    margin-top: 35px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 340px;
+  }
+}
