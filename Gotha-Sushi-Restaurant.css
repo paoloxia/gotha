@@ -64,7 +64,6 @@
   }
 }.u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/sfondopietra.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -109,6 +108,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 686px;
   }
@@ -241,8 +244,8 @@
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin-top: 50px;
-  margin-bottom: 49px;
+  margin-top: 58px;
+  margin-bottom: 58px;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -351,12 +354,12 @@
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 1023px;
+    min-height: 1272px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 51px;
-    margin-bottom: 51px;
+    margin-top: 117px;
+    margin-bottom: 60px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -384,11 +387,15 @@
 
 @media (max-width: 575px) {
   .u-section-3 {
-    min-height: 1086px;
+    min-height: 832px;
   }
 
   .u-section-3 .u-sheet-1 {
-    min-height: 849px;
+    min-height: 1091px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 60px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -600,4 +607,10 @@
   .u-section-4 .u-line-1 {
     width: 340px;
   }
+}.u-section-5 {
+  min-height: 576px;
+}
+
+.u-section-5 .u-map-1 {
+  animation-duration: 1000ms;
 }
